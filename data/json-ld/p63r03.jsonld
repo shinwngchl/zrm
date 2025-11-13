@@ -1,0 +1,101 @@
+{
+	"@context": "https://github.com/shinwngchl/schema/context/zrmref.jsonld",
+	"@type": "DefinedTerm",
+	"@id": "crid:1573668924908180480##p63r03",
+	"name": "慈恩",
+	"description": [
+		{
+			"@type": "Class",
+			"name": "人名"
+		},
+		{
+			"@type": "Person",
+			"@id": "viaf:61777066",
+			"name": "慈恩大師窺基(632-682)"
+		},
+		{
+			"@type": "Bibl",
+			"@id": "sat:T2128#v27",
+			"title": "法華音訓",
+			"description": "慧琳音義所引"
+		},
+		{
+			"@type": "Bibl",
+			"@id": "sat:T1723",
+			"title": "法華玄賛",
+			"description": "大正藏34所収"
+		},
+		{
+			"@type": "Article",
+			"name": "吉田(1954a:78)",
+			"description": "「慈云」等の多くが法華音訓(慧琳音義所引)と法華玄賛(大正藏34所収)であることが判明。"
+		},
+		{
+			"@type": "Article",
+			"name": "宮沢(1988)",
+			"description": "図書寮本では法華音訓を全載の方針であること、注の採録の順位は慈恩が最上位に位置することを解明。"
+		},
+		{
+			"@type": "Article",
+			"name": "池田他(1988)",
+			"description": "「慈」の出典の探索で、法華音訓と法華玄賛以外の多数の撰述書からの引用を証明。"
+		},
+		{
+			"@type": "Abbreviation",
+			"name": "慈恩",
+			"count": 1
+		},
+		{
+			"@type": "Abbreviation",
+			"name": "慈",
+			"count": 100
+		},
+		{
+			"@type": "Abbreviation",
+			"name": "中云慈",
+			"count": 1
+		},
+		{
+			"@type": "Abbreviation",
+			"name": "茲",
+			"count": 312
+		},
+		{
+			"@type": "Abbreviation",
+			"name": "茲又",
+			"count": 1
+		},
+		{
+			"@type": "Abbreviation",
+			"name": "又[慈]",
+			"count": 1
+		},
+		{
+			"@type": "Abbreviation",
+			"name": "又[茲]",
+			"count": 9
+		},
+		{
+			"@type": "Abbreviation",
+			"name": "憲云茲",
+			"count": 1,
+			"note": "間接引用(孫引き)の可能性"
+		},
+		{
+			"@type": "Abbreviation",
+			"name": "真云茲",
+			"count": 4,
+			"note": "間接引用(孫引き)の可能性"
+		},
+		{
+			"@type": "Abbreviation",
+			"name": "中云茲",
+			"count": 22,
+			"note": "間接引用(孫引き)の可能性"
+		},
+		{
+			"@type": "note",
+			"description": "慈恩の直接引用は334条"
+		}
+	]
+}

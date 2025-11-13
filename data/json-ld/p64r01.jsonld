@@ -1,0 +1,121 @@
+{
+	"@context": "https://github.com/shinwngchl/schema/context/zrmref.jsonld",
+	"@type": "DefinedTerm",
+	"@id": "crid:1573668924908180480#p64r01",
+	"name": "順・川",
+	"description": [
+		{
+			"@type": "Class",
+			"name": "人名"
+		},
+		{
+			"@type": "Person",
+			"@id": "viaf:71440502",
+			"name": "源順(911-983)"
+		},
+		{
+			"@type": "Bibl",
+			"@id": "viaf:255512602",
+			"title": "倭名類聚抄",
+			"description": "十巻本と二十巻本とがある。図書寮本との関係については諸氏の論考がある。"
+		},
+		{
+			"@type": "Article",
+			"@id": "crid:1543950420029185024",
+			"name": "吉田(1955:74)"
+		},
+		{
+			"@type": "Article",
+			"name": "築島(1963c)"
+		},
+		{
+			"@type": "Article",
+			"name": "こまつ(1976)"
+		},
+		{
+			"@type": "Article",
+			"name": "望月(1979)"
+		},
+		{
+			"@type": "Article",
+			"name": "望月(1984)"
+		},
+		{
+			"@type": "Article",
+			"name": "望月(1992)"
+		},
+		{
+			"@type": "Article",
+			"name": "佐佐木(1984)"
+		},
+		{
+			"@type": "Article",
+			"name": "宮沢(1986)"
+		},
+		{
+			"@type": "Article",
+			"name": "山本(1988)"
+		},
+		{
+			"@type": "Article",
+			"name": "望月(1976)"
+		},
+		{
+			"@type": "Article",
+			"name": "宮沢(1976)"
+		},
+		{
+			"@type": "Article",
+			"name": "宮沢(1983)"
+		},
+		{
+			"@type": "Article",
+			"name": "宮沢(1991)"
+		},
+		{
+			"@type": "Article",
+			"name": "宮沢(1993)"
+		},
+		{
+			"@type": "Abbreviation",
+			"name": "順",
+			"count": 1
+		},
+		{
+			"@type": "Abbreviation",
+			"name": "川",
+			"count": 364
+		},
+		{
+			"@type": "Abbreviation",
+			"name": "又[川]",
+			"count": 5
+		},
+		{
+			"@type": "Abbreviation",
+			"name": "倭名或本",
+			"count": 1
+		},
+		{
+			"@type": "Abbreviation",
+			"name": "倭名後人加部第四脚足類",
+			"count": 1
+		},
+		{
+			"@type": "Abbreviation",
+			"name": "倭名草類",
+			"count": 1
+		},
+		{
+			"@type": "Abbreviation",
+			"name": "倭名林野類",
+			"count": 1
+		},
+		{
+			"@type": "Abbreviation",
+			"name": "广[川の誤]",
+			"count": 1,
+			"note": "「川」の誤記"
+		}
+	]
+}

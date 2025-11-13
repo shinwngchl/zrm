@@ -1,0 +1,106 @@
+{
+	"@context": "https://github.com/shinwngchl/schema/context/zrmref.jsonld",
+	"@type": "DefinedTerm",
+	"@id": "crid:1573668924908180480#p61r11",
+	"name": "玉",
+	"description": [
+		{
+			"@type": "Class",
+			"name": "書名"
+		},
+		{
+			"@type": ".Bibl",
+			"@id": "viaf:186330226",
+			"title": "玉篇",
+			"description": "三十卷",
+			"author": {
+				"@type": "Person",
+				"@id": "viaf:45699788",
+				"name": "顧野王(519-581)"
+			}
+		},
+		{
+			"@type": "Article",
+			"name": "吉田(1954b:33)"
+		},
+		{
+			"@type": "Article",
+			"name": "宮沢(1973)"
+		},
+		{
+			"@type": "Article",
+			"name": "岡井(1933)"
+		},
+		{
+			"@type": "Article",
+			"name": "貞苅(1957)"
+		},
+		{
+			"@type": "Article",
+			"name": "上田(1970)"
+		},
+		{
+			"@type": "Article",
+			"name": "馬淵(1952)"
+		},
+		{
+			"@type": "Article",
+			"name": "宮沢(1977a)"
+		},
+		{
+			"@type": "ScholarlyHypothesis",
+			"source": "宮沢(1973)",
+			"description": "「玉」の引用が万象名義後半第五・六帖に偏している...「玉云」としたものと推測"
+		},
+		{
+			"@type": "Abbreviation",
+			"name": "玉",
+			"count": 594
+		},
+		{
+			"@type": "Abbreviation",
+			"name": "又[玉]",
+			"count": 1
+		},
+		{
+			"@type": "Abbreviation",
+			"name": "見玉竹",
+			"count": 1
+		},
+		{
+			"@type": "Abbreviation",
+			"name": "公云玉",
+			"count": 1
+		},
+		{
+			"@type": "Abbreviation",
+			"name": "茲云玉",
+			"count": 3
+		},
+		{
+			"@type": "Abbreviation",
+			"name": "茲云玉作",
+			"count": 1
+		},
+		{
+			"@type": "Abbreviation",
+			"name": "公云玉竹",
+			"count": 1
+		},
+		{
+			"@type": "Abbreviation",
+			"name": "川云玉竹",
+			"count": 1
+		},
+		{
+			"@type": "Abbreviation",
+			"name": "茲云玉竹",
+			"count": 7
+		},
+		{
+			"@type": "Abbreviation",
+			"name": "最行云玉篇切韻",
+			"count": 1
+		}
+	]
+}

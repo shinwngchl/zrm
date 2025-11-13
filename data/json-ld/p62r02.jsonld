@@ -1,0 +1,77 @@
+{
+	"@context": "https://github.com/shinwngchl/schema/context/zrmref.jsonld",
+	"@type": "DefinedTerm",
+	"@id": "crid:1573668924908180480#p62r02",
+	"name": "弘",
+	"description": [
+		{
+			"@type": "Class",
+			"name": "人名"
+		},
+		{
+			"@type": "Person",
+			"@id": "viaf:70244544",
+			"name": "弘法大師空海(774-885)"
+		},
+		{
+			"@type": "Bibl",
+			"@id": "viaf:181737290",
+			"title": "篆隷万象名義",
+			"description": "六帖"
+		},
+		{
+			"@type": "Article",
+			"name": "吉田(1954b:32)"
+		},
+		{
+			"@type": "Article",
+			"name": "宮沢(1987)"
+		},
+		{
+			"@type": "Article",
+			"name": "池田(1993a)"
+		},
+		{
+			"@type": "Article",
+			"name": "池田(1991a)"
+		},
+		{
+			"@type": "Article",
+			"name": "宮沢(1973)"
+		},
+		{
+			"@type": "Abbreviation",
+			"name": "弘",
+			"count": 521
+		},
+		{
+			"@type": "Abbreviation",
+			"name": "弘[弘]",
+			"count": 1
+		},
+		{
+			"@type": "Abbreviation",
+			"name": "弘[虫損]",
+			"count": 1
+		},
+		{
+			"@type": "Abbreviation",
+			"name": "弘同",
+			"count": 1
+		},
+		{
+			"@type": "Abbreviation",
+			"name": "又[弘]",
+			"count": 2
+		},
+		{
+			"@type": "Abbreviation",
+			"name": "又弘",
+			"count": 1
+		},
+		{
+			"@type": "note",
+			"description": "篆隷万象名義の直接引用は527条"
+		}
+	]
+}

@@ -1,0 +1,33 @@
+{
+	"@context": {
+		"schema": "http://schema.org/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"zrm": "https://github.com/shinwngchl/ontology#",
+		"DefinedTerm": "schema:DefinedTerm",
+		"Person": "schema:Person",
+		"Bibl": "schema:CreativeWork",
+		"Article": "schema:Article",
+		"Abbreviation": "zrm:Abbreviation",
+		"name": "schema:name",
+		"description": "schema:description",
+		"title": "schema:headline",
+		"author": "schema:author",
+		"publisher": "schema:publisher",
+		"note": "schema:comment",
+		"count": {
+			"@id": "zrm:count",
+			"@type": "xsd:integer"
+		},
+		"refersTo": {
+			"@id": "dcterms:references",
+			"@type": "@id"
+		},
+		"seeAlso": "rdfs:seeAlso",
+		"viaf": "https://viaf.org/viaf/",
+		"wd": "http://www.wikidata.org/entity/",
+		"sat": "https://21dzk.l.u-tokyo.ac.jp/SAT/",
+		"crid": "https://cir.nii.ac.jp/crid/"
+	}
+}

@@ -1,0 +1,58 @@
+{
+	"@context": "https://github.com/shinwngchl/schema/context/zrmref.jsonld",
+	"@type": "DefinedTerm",
+	"@id": "crid:1573668924908180480#p62r03",
+	"name": "弘",
+	"description": [
+		{
+			"@type": "Class",
+			"name": "人名"
+		},
+		{
+			"@type": "Person",
+			"@id": "viaf:70244544",
+			"name": "空海(774-885)"
+		},
+		{
+			"@type": "Bibl",
+			"@id": "crid:zrm-bibl#IchijiChorinno",
+			"title": "金剛頂経一字頂輪王儀軌音義",
+			"description": "一卷"
+		},
+		{
+			"@type": "Article",
+			"name": "吉田(1954a:69)"
+		},
+		{
+			"@type": "Article",
+			"name": "築島・小林(1965)"
+		},
+		{
+			"@type": "Article",
+			"name": "宮沢(1978)"
+		},
+		{
+			"@type": "Article",
+			"name": "高山寺典籍文書綜合調査団(1977)"
+		},
+		{
+			"@type": "Abbreviation",
+			"name": "弘[金]",
+			"count": 5
+		},
+		{
+			"@type": "Abbreviation",
+			"name": "弘有処[金]",
+			"count": 1
+		},
+		{
+			"@type": "Abbreviation",
+			"name": "又[金]",
+			"count": 1
+		},
+		{
+			"@type": "note",
+			"description": "一字頂輪王儀軌音義の直接引用は7条"
+		}
+	]
+}
